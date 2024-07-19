@@ -1,0 +1,62 @@
+<div style="background: linear-gradient( to bottom , #bcd4e9 , #ffffff ); font-family: 'ubuntu' , 'helvetica neue' , sans-serif; margin: 0; padding: 0; min-height: 100vh;">
+<div style="text-align: center; padding: 50px;"><img style="max-width: 300px;" src="https://www.coopsanantonio.fin.ec/images/logotipo.png" alt="Logo COAC San Antonio" />
+<h1 style="font-weight: bold; color: #0c469c; font-size: 5em; margin: 20px 0;">BIENVENIDO</h1>
+<h2 style="font-size: 1.5em; margin: 10px 0;">Repositorio Documental</h2>
+<p style="margin: 20px 0; font-size: 1.2em; color: #333;">Este repositorio tiene como objetivo centralizar y organizar la documentaci&oacute;n relacionada con la Cooperativa para facilitar la colaboraci&oacute;n y desarrollo.</p>
+<div style="width: 100%; height: 5px; margin: 20px auto; background: linear-gradient( 90deg , #fdd814 30% , #0c469c 30% , #0c469c 70% , #fdd814 50% );">&nbsp;</div>
+<table style="width: 100%; border-collapse: collapse; height: 346px; border: medium;">
+<tbody>
+<tr style="height: 58px;">
+<td style="width: 33.333333%; height: 109px; border: medium;">&nbsp;</td>
+<td style="width: 33.333333%; height: 109px; border: medium;"><a style="background: linear-gradient( to bottom , #3950ab , #45a1df ); color: #fff; border: none; padding: 15px 30px; font-size: 1.2em; border-radius: 10px; text-decoration: none; margin-top: 20px;" href="http://localhost:8080/share/page/context/mine/myfiles" rel="nofollow">Ir a Macroprocesos</a></td>
+<td style="width: 33.333333%; height: 109px; border: medium;">&nbsp;</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+<td style="width: 33.333333%; border: medium; height: 18px;">&nbsp;</td>
+</tr>
+<tr style="height: 18px;">
+<td style="width: 33.333333%; height: 75px; border: medium;">
+<div style="background: linear-gradient( to bottom , #3950ab , #45a1df ); color: #fff; border: none; padding: 15px 30px; font-size: 1.2em; border-radius: 10px; text-align: center;">
+<h2 style="font-size: 25px;">Coac San Antonio Los R&iacute;os</h2>
+<p style="font-size: 15px; margin: 5px 0;">Seguridad y confianza siempre en mi Cooperativa</p>
+</div>
+</td>
+<td style="width: 33.333333%; height: 75px; border: medium;">&nbsp;</td>
+<td style="width: 33.333333%; height: 75px; border: medium;">&nbsp;</td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
